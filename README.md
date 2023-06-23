@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhaohuihe
 - 👀 I’m interested in methods and new computational technologies in bioinformatics
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on data analysis of omics data such as single cell transcriptome
+- 💞️ I’m looking to collaborate on data analysis of multi-omics such as single cell transcriptome
 - 📫 How to reach me via e-mail: biozhaohui@gmail.com
 
 <!---
