@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zhaohuihe
+- 👋 Hi, I’m @zhaohuihe, a master students at Nanjing University
 - 👀 I’m interested in methods and new computational technologies in bioinformatics
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on data analysis of multi-omics such as single cell transcriptome
