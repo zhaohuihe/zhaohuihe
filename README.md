@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zhaohuihe, a master students at Nanjing University
+- 👋 Hi, I’m @zhaohui, a PhD students at Humboldt-Universität zu Berlin
 - 👀 I’m interested in methods and new computational technologies in bioinformatics
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on data analysis of multi-omics such as single cell transcriptome
-- 📫 How to reach me via e-mail: biozhaohui@gmail.com
+- 📫 How to reach me via e-mail: zhaohui.he@hu-berlin.de
 
 <!---
 zhaohuihe/zhaohuihe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
